@@ -1,2 +1,1 @@
-# LetsSeeTheTopic
-Website for Let'sSeeTheTopic
+A GitHub app that utilises the projects system!
